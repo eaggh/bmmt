@@ -13,7 +13,6 @@ const allowedOrigins = [
   'http://localhost:5173/',
   'https://bellskeet.netlify.app',
   'https://porost.netlify.app'
-  'https://bellbizca-omega.vercel.app'
    // add all your trusted frontends here
 ];
 
